@@ -60,3 +60,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+[submodule "DbConnector"]
+	path = DbConnector
+	url = https://github.com/chaconinc/DbConnector
